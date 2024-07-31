@@ -1,0 +1,14 @@
+M:\Projekte\CSharp\hero_cs\hero_cs\bin\Debug\net8.0\hero_cs.exe
+M:\Projekte\CSharp\hero_cs\hero_cs\bin\Debug\net8.0\hero_cs.deps.json
+M:\Projekte\CSharp\hero_cs\hero_cs\bin\Debug\net8.0\hero_cs.runtimeconfig.json
+M:\Projekte\CSharp\hero_cs\hero_cs\bin\Debug\net8.0\hero_cs.dll
+M:\Projekte\CSharp\hero_cs\hero_cs\bin\Debug\net8.0\hero_cs.pdb
+M:\Projekte\CSharp\hero_cs\hero_cs\obj\Debug\net8.0\hero_cs.GeneratedMSBuildEditorConfig.editorconfig
+M:\Projekte\CSharp\hero_cs\hero_cs\obj\Debug\net8.0\hero_cs.AssemblyInfoInputs.cache
+M:\Projekte\CSharp\hero_cs\hero_cs\obj\Debug\net8.0\hero_cs.AssemblyInfo.cs
+M:\Projekte\CSharp\hero_cs\hero_cs\obj\Debug\net8.0\hero_cs.csproj.CoreCompileInputs.cache
+M:\Projekte\CSharp\hero_cs\hero_cs\obj\Debug\net8.0\hero_cs.dll
+M:\Projekte\CSharp\hero_cs\hero_cs\obj\Debug\net8.0\refint\hero_cs.dll
+M:\Projekte\CSharp\hero_cs\hero_cs\obj\Debug\net8.0\hero_cs.pdb
+M:\Projekte\CSharp\hero_cs\hero_cs\obj\Debug\net8.0\hero_cs.genruntimeconfig.cache
+M:\Projekte\CSharp\hero_cs\hero_cs\obj\Debug\net8.0\ref\hero_cs.dll
