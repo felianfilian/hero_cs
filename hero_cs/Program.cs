@@ -1,10 +1,11 @@
 ﻿using System.Security.Cryptography.X509Certificates;
 
-public class Hero
+static class Hero
 {
-    
+    public static int counter;
     private static void Main(string[] args)
     {
+        counter = 0;
         int health = 10; 
         Console.WriteLine("Welcome to Hero CS");
         ShowHealth(health, 10);
@@ -16,7 +17,7 @@ public class Hero
 
     static void ShowHealth(int actual, int max) 
     {                   
-        
+        counter = 1;
         string healthDisplay = "";
         int healthDispAmount = 10 * actual / max;
         for(int i=0; i < 10; i++) 
