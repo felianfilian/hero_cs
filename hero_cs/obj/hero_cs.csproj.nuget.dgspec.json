@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "M:\\Projekte\\CSharp\\hero_cs\\hero_cs\\hero_cs.csproj": {}
+    "m:\\Projekte\\CSharp\\hero_cs\\hero_cs\\hero_cs.csproj": {}
   },
   "projects": {
-    "M:\\Projekte\\CSharp\\hero_cs\\hero_cs\\hero_cs.csproj": {
+    "m:\\Projekte\\CSharp\\hero_cs\\hero_cs\\hero_cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\Projekte\\CSharp\\hero_cs\\hero_cs\\hero_cs.csproj",
+        "projectUniqueName": "m:\\Projekte\\CSharp\\hero_cs\\hero_cs\\hero_cs.csproj",
         "projectName": "hero_cs",
-        "projectPath": "M:\\Projekte\\CSharp\\hero_cs\\hero_cs\\hero_cs.csproj",
+        "projectPath": "m:\\Projekte\\CSharp\\hero_cs\\hero_cs\\hero_cs.csproj",
         "packagesPath": "C:\\Users\\Dennis\\.nuget\\packages\\",
-        "outputPath": "M:\\Projekte\\CSharp\\hero_cs\\hero_cs\\obj\\",
+        "outputPath": "m:\\Projekte\\CSharp\\hero_cs\\hero_cs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dennis\\AppData\\Roaming\\NuGet\\NuGet.Config",
