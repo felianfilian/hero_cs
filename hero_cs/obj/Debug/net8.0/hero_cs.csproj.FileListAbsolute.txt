@@ -12,3 +12,4 @@ M:\Projekte\CSharp\hero_cs\hero_cs\obj\Debug\net8.0\refint\hero_cs.dll
 M:\Projekte\CSharp\hero_cs\hero_cs\obj\Debug\net8.0\hero_cs.pdb
 M:\Projekte\CSharp\hero_cs\hero_cs\obj\Debug\net8.0\hero_cs.genruntimeconfig.cache
 M:\Projekte\CSharp\hero_cs\hero_cs\obj\Debug\net8.0\ref\hero_cs.dll
+M:\Projekte\CSharp\hero_cs\hero_cs\obj\Debug\net8.0\hero_cs.sourcelink.json
